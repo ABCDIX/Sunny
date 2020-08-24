@@ -1,0 +1,154 @@
+.side #logo{
+	position: absolute;
+	top:50px;
+	left:220px;
+
+}
+.main {
+	height: 1000px;
+	width: 700px;
+	background-color: #ebebe0;
+
+	position: absolute;
+	top:0px;
+	left: 460px;
+
+	font-family:QuicksandRegular;
+	font-size:30px;
+}
+
+#log{
+	background-color: #e68a00;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  width: 100px;
+  height:25px; 
+
+  position: absolute;
+  top:300px;
+  left:350px;
+}
+
+.background{
+	width:960px;
+	overflow:hidden;
+	margin:0 auto;
+}
+
+#log1{
+	background-color: #e68a00;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  width: 100px;
+  height:25px; 
+
+  position: absolute;
+  top:350px;
+  left:350px;
+}
+#log2{
+	background-color: #e68a00;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  width: 100px;
+  height:25px; 
+
+  position: absolute;
+  top:400px;
+  left:350px;
+}
+#log3{
+	background-color: #e68a00;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  width: 100px;
+  height:25px; 
+
+  position: absolute;
+  top:450px;
+  left:350px;
+}
+#banner{
+	height: 250px;
+	width: 700px;
+}
+#pwe{
+	position:absolute;
+	top:150px;
+	left:100px;
+
+}
+#form {
+	border:solid;
+	border-color:black;
+
+	padding-left: 25px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+
+	position: absolute;
+	top:200px;
+	left:100px;
+}
+
+#sprof{
+	border:solid;
+	font-family:"Calibri Light";
+	font-size:25px;
+
+	padding-left: 25px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+
+
+	position: absolute;
+	top:200px;
+	left:100px;
+
+	}
+
+	
+	th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+#vg{
+	border:solid;
+	font-family:"Calibri Light";
+	font-size:25px;
+
+	padding-left: 25px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+
+
+	position: absolute;
+	top:200px;
+	left:-75px;
+}
+
+#pwee{
+	height: 900px;
+	width: 700px;
+	background-color: #ebebe0;
+
+	position: absolute;
+	top:0px;
+	left: 460px;
+}
